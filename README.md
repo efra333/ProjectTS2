@@ -12,8 +12,11 @@ Aquí encontrarás todo el código, documentación y recursos relacionados con e
 ## Autores
 
 Francisco Alberto Fernández Arroyo 175984
+
 Carlos Rodrigo Cortés Cuevas 172181
+
 Efraín Gómez Arcive 176144
+
 Rafael Eduardo Rivero Mejía 168866
 
 
